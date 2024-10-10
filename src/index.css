@@ -1,0 +1,21 @@
+/* Clicker Script */
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap");
+
+/* Anton */
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Clicker+Script&display=swap");
+
+/* Alata */
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Anton&family=Clicker+Script&display=swap");
+
+/* Oswald */
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Anton&family=Clicker+Script&family=Oswald:wght@200..700&display=swap");
+
+/* Brittany */
+@import url("https://fonts.cdnfonts.com/css/brittany-signature");
+
+/* Bebas Neue */
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Anton&family=Bebas+Neue&family=Clicker+Script&family=Oswald:wght@200..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
